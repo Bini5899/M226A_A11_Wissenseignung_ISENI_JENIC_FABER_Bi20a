@@ -3,8 +3,8 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
 
-        Aufgabe1 aufgabe = new Aufgabe1();
-        aufgabe.Aufgabe1();
+        Aufgabe2 aufgabe = new Aufgabe2();
+        aufgabe.Aufgabe2();
 
     }
 }
